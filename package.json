@@ -12,5 +12,11 @@
     "test-puppeteer"
   ],
   "author": "M ABD AZIZ ALFIAN",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
 }
