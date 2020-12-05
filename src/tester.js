@@ -1,6 +1,7 @@
 /**
  * This tester is trying to get content images at imgfo but still failed
  */
+'use strict'
 
 const puppeteer = require('puppeteer');
 
